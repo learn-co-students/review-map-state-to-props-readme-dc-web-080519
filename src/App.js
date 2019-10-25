@@ -23,7 +23,7 @@ class App extends Component {
       <div className="App">
           <button onClick={() => this.handleOnClickItems()}>
             Click to change items count
-            </button>
+          </button>
           <button onClick={() => this.handleOnClickUsers()}>
             Click to change user count
           </button>
